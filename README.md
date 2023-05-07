@@ -19,17 +19,17 @@ __Главное меню имееет следующую структуру:__
 * Файл
 
 
-![Файл]([images/%D1%84%D0%B0%D0%B9%D0%BB.png](https://github.com/Tema1313/TFLaC/raw/master/TFLaC_a.mikheev/images/%D1%84%D0%B0%D0%B9%D0%BB.png)
+![Файл](https://github.com/Tema1313/TFLaC/raw/master/TFLaC_a.mikheev/images/%D1%84%D0%B0%D0%B9%D0%BB.png)
 * Правка
 
-![Правка][(images/%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.png](https://github.com/Tema1313/TFLaC/raw/master/TFLaC_a.mikheev/images/%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.png)
+![Правка](https://github.com/Tema1313/TFLaC/raw/master/TFLaC_a.mikheev/images/%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.png)
 * Текст
 
-![Текст]([images/%D1%82%D0%B5%D0%BA%D1%81%D1%82.png](https://github.com/Tema1313/TFLaC/raw/master/TFLaC_a.mikheev/images/%D1%82%D0%B5%D0%BA%D1%81%D1%82.png)
+![Текст](https://github.com/Tema1313/TFLaC/raw/master/TFLaC_a.mikheev/images/%D1%82%D0%B5%D0%BA%D1%81%D1%82.png)
 * Пуск
 * Справка
 
-![Справка]([images/%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.png](https://github.com/Tema1313/TFLaC/raw/master/TFLaC_a.mikheev/images/%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.png)
+![Справка](https://github.com/Tema1313/TFLaC/raw/master/TFLaC_a.mikheev/images/%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.png)
 
 
 ## Панель инструментов
